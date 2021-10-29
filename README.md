@@ -2,9 +2,9 @@
 
 ---
 ### ✨ Final Project
-> GitPage: https://caixetadev.github.io/Portfolio/
+> GitPage: https://caixetadev.github.io/imageviewer/
 <p align="center">
-  <img src="https://github.com/Caixetadev/imageviewer/blob/main/assets/screen.jpg?raw=true" alt="Devfinance" />
+  <img src="https://github.com/Caixetadev/imageviewer/blob/main/assets/screen.jpg?raw=true" alt="ImageViewer" />
 </p>
 
 ---
